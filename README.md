@@ -73,7 +73,7 @@ $ python detect.py --source 0  # webcam
 * Run commands below
 
 ```bash
-$ python detect.py --source ../video.mp4 --weights ./runs/train/exp/weights/best.pt --conf 0.5
+$ python detect.py --source ../img.png --weights ./runs/train/exp/weights/best.pt --conf 0.5
 ```                                 
 *  You can see the detection results, enter the directory below in the yolov5 folder.     
 
