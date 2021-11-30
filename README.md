@@ -50,7 +50,7 @@ $ python train.py --data coco.yaml --cfg yolov5s.yaml --weights '' --batch-size 
 ```       
 * Run commands below
 ```bash
-% python train.py --data ./data/coco128.yaml --cfg ./models/yolov5s.yaml  --batch 64
+% python train.py --data ./data/coco128.yaml --cfg ./models/yolov5s.yaml  --batch 64 --epochs 50
 ```
 * You can see the training results and  weights, enter the directory below in the yolov5 folder.
 
